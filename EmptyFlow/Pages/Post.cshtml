@@ -1,0 +1,14 @@
+﻿@page
+@model EmptyFlow.Pages.PostModel
+@{
+    ViewData["Title"] = "Post";
+}
+
+<h2>Post</h2>
+
+
+<div class="blog-post">
+    <h2 class="blog-post-title">@Html.DisplayFor(model => model.BlogPost.Title)</h2>
+    <p class="blog-post-meta"> @Html.DisplayFor(model => model.BlogPost.PostDate) by  @Html.DisplayFor(model => model.BlogPost.Author)</p>
+    <p>@Html.DisplayFor(model => model.BlogPost.Post)</p>
+</div>
