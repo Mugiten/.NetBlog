@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="package.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="package.json" />
     <None Include="wwwroot\css\LoadMore.css" />
     <None Include="wwwroot\js\LoadMore.js" />
   </ItemGroup>
