@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developer\\source\\repos\\EmptyFlow\\EmptyFlow\\EmptyFlow.csproj",
+      "projectUniqueName": "C:\\Users\\Developer\\Documents\\GitHub\\NetBlogsite\\.NetBlog\\EmptyFlow\\EmptyFlow.csproj",
       "projectName": "EmptyFlow",
-      "projectPath": "C:\\Users\\Developer\\source\\repos\\EmptyFlow\\EmptyFlow\\EmptyFlow.csproj",
+      "projectPath": "C:\\Users\\Developer\\Documents\\GitHub\\NetBlogsite\\.NetBlog\\EmptyFlow\\EmptyFlow.csproj",
       "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Developer\\source\\repos\\EmptyFlow\\EmptyFlow\\obj\\",
+      "outputPath": "C:\\Users\\Developer\\Documents\\GitHub\\NetBlogsite\\.NetBlog\\EmptyFlow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
